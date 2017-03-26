@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>C:\Users\jeffr\Desktop\Xamarin-Android-Demo\RecyclerView-Xamarin\RecyclerView-Xamarin\RecyclerView_Xamarin.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.RecyclerView\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\jeffr\Desktop\Xamarin-Android-Demo\RecyclerView-Xamarin\RecyclerView-Xamarin\RecyclerView_Xamarin.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.CardView\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories />
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>C:\Users\jeffr\Desktop\Xamarin-Android-Demo\RecyclerView-Xamarin\RecyclerView-Xamarin\RecyclerView_Xamarin.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.RecyclerView.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\jeffr\Desktop\Xamarin-Android-Demo\RecyclerView-Xamarin\RecyclerView-Xamarin\RecyclerView_Xamarin.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.CardView.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>
